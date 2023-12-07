@@ -84,7 +84,7 @@ README.md.</p>
 
 ![image](https://github.com/ekarahayu24/pert-12/assets/147680283/530378ee-8200-4e2e-9a84-29f6ed94f952)
 
-
+.
 
 
 
