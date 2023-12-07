@@ -10,7 +10,7 @@ README.md.</p>
 <p>Commit dan push repository ke github.</p>
 <p>masukkan kode program </p>
 
-<pdata={} 
+data={} 
 import os
 class data_mahasiswa():
     def tambah():
@@ -86,7 +86,7 @@ while True:
         break
     else :
         print('Pilih menu yang tersedia')
-print('Program Selesai')p>
+print('Program Selesai')
     
 
 # <p>program tambah data </p>
