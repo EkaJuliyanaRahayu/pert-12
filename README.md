@@ -8,7 +8,9 @@ class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:</p>
 <p>Buat diagram class, flowchart dan penjelasan programnya pada
 README.md.</p>
 <p>Commit dan push repository ke github.</p>
-<p>masukkan kode program </p>data={} 
+<p>masukkan kode program </p>
+
+<pdata={} 
 import os
 class data_mahasiswa():
     def tambah():
@@ -84,10 +86,8 @@ while True:
         break
     else :
         print('Pilih menu yang tersedia')
-print('Program Selesai')
-<p></p>
-
-
+print('Program Selesai')p>
+    
 
 # <p>program tambah data </p>
 ![image](https://github.com/ekarahayu24/pert-12/assets/147680283/322e2465-0310-4d1f-bcab-b5f7eca1fa35)
