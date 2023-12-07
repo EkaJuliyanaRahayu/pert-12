@@ -76,11 +76,11 @@ README.md.</p>
 ![image](https://github.com/ekarahayu24/pert-12/assets/147680283/5ed67b54-fa1f-46b2-ab72-04a2267e13e5)
 
 
-<p>tampilan diagram kelas</p>
+# <p>tampilan diagram kelas</p>
 
 ![image](https://github.com/ekarahayu24/pert-12/assets/147680283/d5e70249-0e2e-49d6-a928-afe1a3c4e559)
 
-<p>tampilan flowchart</p>
+# <p>tampilan flowchart</p>
 
 ![image](https://github.com/ekarahayu24/pert-12/assets/147680283/530378ee-8200-4e2e-9a84-29f6ed94f952)
 
